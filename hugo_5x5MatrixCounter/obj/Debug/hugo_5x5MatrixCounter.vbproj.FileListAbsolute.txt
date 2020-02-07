@@ -1,0 +1,11 @@
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\bin\Debug\hugo_5x5MatrixCounter.exe.config
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\bin\Debug\hugo_5x5MatrixCounter.exe
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\bin\Debug\hugo_5x5MatrixCounter.pdb
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\bin\Debug\hugo_5x5MatrixCounter.xml
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.vbprojAssemblyReference.cache
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.Form1.resources
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.Resources.resources
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.vbproj.GenerateResource.cache
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.exe
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.xml
+C:\Users\Anne\source\repos\hugo_5x5MatrixCounter\hugo_5x5MatrixCounter\obj\Debug\hugo_5x5MatrixCounter.pdb
